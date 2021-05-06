@@ -175,9 +175,11 @@
 }
 .hero h1{
     color: #fff;
+    font-family: Quicksand, sans-serif;
 }
 .hero h3{
     color: #fff;
+    font-family: Quicksand, sans-serif;
 }
 .hero .btn1{
     min-width: 200px;
@@ -242,6 +244,7 @@
   color: #fff;
   text-align: center;
   font-size: 1.5em;
+  font-family: QuickSand , sans-serif;
 }
 .container .card1 .face.face1 .content h5{
   margin: 10px 0 0;
@@ -269,6 +272,7 @@
 .container .card1 .face.face2 .content p{
   margin: 0;
   padding: 0;
+  font-family: Quicksand , sans-serif;
 }
 
 .container .card1 .face.face2 .content a{
